@@ -2,7 +2,7 @@ const renderEl = document.querySelector("h1")
 
 const getRandomEl = a => a[Math.floor(Math.random() * a.length)]
 
-fetch("words.json")
+fetch("public/words.json")
     .then(response => response.json())
     .then(data => {
         const name = `${getRandomEl(data.firstWord)} ${getRandomEl(data.secondWord)} ${getRandomEl(data.thirdWord)}`
