@@ -1,0 +1,53 @@
+{
+  "firstWord": [
+    "Fern-leaved",
+    "Hoary",
+    "False",
+    "Greater",
+    "Lesser",
+    "Hairy",
+    "Yellow",
+    "Pink",
+    "White",
+    "Red",
+    "Blue",
+    "Spiny",
+    "Climbing",
+    "Spotted",
+    "Poison",
+    "Giant",
+    "Wild",
+    "European",
+    "North American",
+    "American",
+    "Canadian",
+    "Turkish",
+    "Japanese",
+    "Siberian",
+    "Spreading"
+  ],
+  "secondWord": [
+    "mountain",
+    "highland",
+    "horse",
+    "sheep's",
+    "shepherd's",
+    "cow",
+    "hog",
+    "prarie",
+    "river",
+    "sea",
+    "swamp",
+    "bog",
+    "leaved",
+    "spider"
+  ],
+  "thridWord": [
+    "weed",
+    "flower",
+    "bane",
+    "wort",
+    "vine",
+    "root"
+  ]
+}
