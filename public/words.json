@@ -82,7 +82,6 @@
     "vine",
     "nettle",
     "blossom",
-    "plant",
     "root",
     "herb",
     "mallow",
@@ -94,6 +93,7 @@
     "rush",
     "reed",
     "fern",
-    "bean"
+    "bean",
+    "thorn"
   ]
 }
